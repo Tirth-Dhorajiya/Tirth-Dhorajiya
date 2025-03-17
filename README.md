@@ -1,7 +1,7 @@
 Hi 👋 My name is Tirth Dhorajiya
 ================================
 
-web development (React JS)
+web developer (React JS)
 --------------------------
 
 Passionate beginner React.js web developer eager to build interactive and dynamic web applications. Continuously learning and improving skills in React.js, JavaScript, HTML, CSS, and frontend development while also exploring backend technologies like Node.js and MongoDB.
